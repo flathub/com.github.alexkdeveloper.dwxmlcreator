@@ -1,7 +1,7 @@
 {
     "app-id" : "com.github.alexkdeveloper.dwxmlcreator",
     "runtime" : "org.gnome.Platform",
-    "runtime-version" : "41",
+    "runtime-version" : "42",
     "sdk" : "org.gnome.Sdk",
     "command" : "com.github.alexkdeveloper.dwxmlcreator",
     "finish-args" : [
@@ -31,8 +31,8 @@
                 {
                     "type" : "git",
                     "url" : "https://github.com/alexkdeveloper/dwxmlcreator.git",
-                    "tag" : "1.0.0",
-                    "commit" : "f1ac207c6e71637d96381023d65e04f743b4b8d5"
+                    "tag" : "1.0.1",
+                    "commit" : "dab67543a0f7d103f22fc400d53c2377cb7e8a45"
                 }
             ]
         }
