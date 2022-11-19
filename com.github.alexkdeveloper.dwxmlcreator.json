@@ -31,8 +31,8 @@
                 {
                     "type" : "git",
                     "url" : "https://github.com/alexkdeveloper/dwxmlcreator.git",
-                    "tag" : "1.0.5",
-                    "commit" : "d4fee78619e75237959e7f80c60d0d55d7d0fc56"
+                    "tag" : "1.0.6",
+                    "commit" : "ac1f89f0ad807b829f41b3db985abddaac76c0df"
                 }
             ]
         }
