@@ -5,6 +5,7 @@
     "sdk" : "org.gnome.Sdk",
     "command" : "com.github.alexkdeveloper.dwxmlcreator",
     "finish-args" : [
+        "--device=dri",
         "--share=ipc",
         "--socket=fallback-x11",
         "--socket=wayland"
@@ -30,8 +31,8 @@
                 {
                     "type" : "git",
                     "url" : "https://github.com/alexkdeveloper/dwxmlcreator.git",
-                    "tag" : "1.0.6",
-                    "commit" : "14d0bfe2f634951a6872209c7271a3e49e1eaed0"
+                    "tag" : "1.0.7",
+                    "commit" : "1ed4a4386d3add86a471245b843cdab477ae4d57"
                 }
             ]
         }
